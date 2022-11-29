@@ -1,3 +1,35 @@
-<%= start_time %><br>
-<%= end_time %><br>
+<head>
+
+<link rel="stylesheet" href="/css/search_res.css" type="text/css">
+<!--
+<style>
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+</style>
+-->
+</head>
+
+<body>
+<table class="center">
+    <tr>
+        <th>Course Code</th>
+        <th>Start Time</th>
+        <th>End Time</th>
+        <th>Location</th>
+    </tr>
+    <% for(var i=0;i<row_length;i++) {%>
+        <tr>
+            <td><%= row[i].course_code %></td>
+            <td><%= row[i].start_time %></td>
+            <td><%= row[i].end_time %></td>
+            <td><%= row[i].location %></td>
+        </tr>
+    <% } %>
+</table>
 <a href="/">back</a>
+
+</body>
