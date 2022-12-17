@@ -15,6 +15,8 @@
     "express": "^4.18.2",
     "nodemon": "^2.0.20",
     "pg": "^8.8.0",
-    "puppeteer": "^19.3.0"
+    "puppeteer": "^19.3.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-user-preferences": "^2.4.0"
   }
 }

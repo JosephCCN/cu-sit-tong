@@ -1,0 +1,8539 @@
+<!DOCTYPE html>
+<html class='pc chrome win psc_dir-ltr psc_form-xlarge' dir='ltr' lang='en'>
+<!-- Copyright (c) 2000, 2018, Oracle and/or its affiliates. All rights reserved. -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><body><table border='1' cellpadding='3' cellspacing='0'>
+<tr>
+<th>Class Code</th><th>Class Nbr</th><th>Course Title</th><th>Units</th><th>Teaching Staff</th><th>Quota(s)</th><th>Vacancy</th><th>Course Component</th><th>Section Code</th><th>Language</th><th>Period</th><th>Room</th><th>Meeting Date</th><th>Add Consent</th><th>Drop Consent</th><th>Course Offering Dept</th></tr>
+<tr>
+<td  >CSCI1020-</td>
+<td  >5390</td>
+<td  >Hands-On Intro to C++ 高級程序設計語言C++實用介紹</td>
+<td  >1.00</td>
+<td  style="mso-number-format:\@;"  >- Dr. CHEONG Chi Hong</td>
+<td  >50</td>
+<td  >3</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >-</td>
+<td  >E</td>
+<td  >Th 01:30PM - 02:15PM</td>
+<td  >LHC_G04</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 01:30PM - 02:15PM</td>
+<td  >LHC_G04</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 01:30PM - 02:15PM</td>
+<td  >LHC_G04</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >50</td>
+<td  >3</td>
+<td  >LAB</td>
+<td  style="mso-number-format:\@;"  >-L01</td>
+<td  >E</td>
+<td  >Th 03:30PM - 05:15PM</td>
+<td  >SHB_123</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 03:30PM - 05:15PM</td>
+<td  >SHB_123</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 03:30PM - 05:15PM</td>
+<td  >SHB_123</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI1030-</td>
+<td  >5083</td>
+<td  >Hands-on Introduction to Java 高級程序設計語言JAVA實用介紹</td>
+<td  >1.00</td>
+<td  style="mso-number-format:\@;"  >- Dr. CHEONG Chi Hong</td>
+<td  >50</td>
+<td  >1</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >-</td>
+<td  >E</td>
+<td  >We 02:30PM - 03:15PM</td>
+<td  >LPN_LT</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 03:15PM</td>
+<td  >LPN_LT</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 03:15PM</td>
+<td  >LPN_LT</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 03:15PM</td>
+<td  >LPN_LT</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >50</td>
+<td  >1</td>
+<td  >LAB</td>
+<td  style="mso-number-format:\@;"  >-L01</td>
+<td  >E</td>
+<td  >We 03:30PM - 05:15PM</td>
+<td  >SHB_924</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 03:30PM - 05:15PM</td>
+<td  >SHB_924</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 03:30PM - 05:15PM</td>
+<td  >SHB_924</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 03:30PM - 05:15PM</td>
+<td  >SHB_924</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI1510-</td>
+<td  >5280</td>
+<td  >Computer Principle & C Prog 計算機原理及C程序設計</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Dr. LAW Yat Chiu</td>
+<td  >80</td>
+<td  >51</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >-</td>
+<td  >E</td>
+<td  >Mo 02:30PM - 03:15PM</td>
+<td  >SC_L2</td>
+<td  >9/1, 16/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 02:30PM - 03:15PM</td>
+<td  >SC_L2</td>
+<td  >30/1, 6/2, 13/2, 20/2, 27/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 02:30PM - 03:15PM</td>
+<td  >SC_L2</td>
+<td  >13/3, 20/3, 27/3, 3/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 02:30PM - 03:15PM</td>
+<td  >SC_L2</td>
+<td  >17/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 02:30PM - 04:15PM</td>
+<td  >ERB_407</td>
+<td  >10/1, 17/1</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 02:30PM - 04:15PM</td>
+<td  >ERB_407</td>
+<td  >31/1, 7/2, 14/2, 21/2, 28/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 02:30PM - 04:15PM</td>
+<td  >ERB_407</td>
+<td  >14/3, 21/3, 28/3, 4/4, 11/4, 18/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >80</td>
+<td  >51</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T01</td>
+<td  >E</td>
+<td  >Tu 04:30PM - 05:15PM</td>
+<td  >ERB_407</td>
+<td  >10/1, 17/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 04:30PM - 05:15PM</td>
+<td  >ERB_407</td>
+<td  >31/1, 7/2, 14/2, 21/2, 28/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 04:30PM - 05:15PM</td>
+<td  >ERB_407</td>
+<td  >14/3, 21/3, 28/3, 4/4, 11/4, 18/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI1520-</td>
+<td  >5281</td>
+<td  >Computer Principle & C++ Prog 計算機原理及C++程序設計</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Dr. LAW Yat Chiu</td>
+<td  >120</td>
+<td  >44</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >-</td>
+<td  >E</td>
+<td  >Mo 10:30AM - 12:15PM</td>
+<td  >LSK_LT1</td>
+<td  >9/1, 16/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 10:30AM - 12:15PM</td>
+<td  >LSK_LT1</td>
+<td  >30/1, 6/2, 13/2, 20/2, 27/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 10:30AM - 12:15PM</td>
+<td  >LSK_LT1</td>
+<td  >13/3, 20/3, 27/3, 3/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 10:30AM - 12:15PM</td>
+<td  >LSK_LT1</td>
+<td  >17/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 11:30AM - 12:15PM</td>
+<td  >SC_L1</td>
+<td  >10/1, 17/1</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 11:30AM - 12:15PM</td>
+<td  >SC_L1</td>
+<td  >31/1, 7/2, 14/2, 21/2, 28/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 11:30AM - 12:15PM</td>
+<td  >SC_L1</td>
+<td  >14/3, 21/3, 28/3, 4/4, 11/4, 18/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >70</td>
+<td  >44</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T01</td>
+<td  >E</td>
+<td  >Mo 09:30AM - 10:15AM</td>
+<td  >LSK_LT1</td>
+<td  >9/1, 16/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 09:30AM - 10:15AM</td>
+<td  >LSK_LT1</td>
+<td  >30/1, 6/2, 13/2, 20/2, 27/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 09:30AM - 10:15AM</td>
+<td  >LSK_LT1</td>
+<td  >13/3, 20/3, 27/3, 3/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 09:30AM - 10:15AM</td>
+<td  >LSK_LT1</td>
+<td  >17/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >70</td>
+<td  >20</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T02</td>
+<td  >E</td>
+<td  >Mo 12:30PM - 01:15PM</td>
+<td  >LSK_LT1</td>
+<td  >9/1, 16/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 12:30PM - 01:15PM</td>
+<td  >LSK_LT1</td>
+<td  >30/1, 6/2, 13/2, 20/2, 27/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 12:30PM - 01:15PM</td>
+<td  >LSK_LT1</td>
+<td  >13/3, 20/3, 27/3, 3/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 12:30PM - 01:15PM</td>
+<td  >LSK_LT1</td>
+<td  >17/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI1530-</td>
+<td  >4480</td>
+<td  >Computer Principle & Java Prog 計算機原理及JAVA程序設計</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Mr. FUNG Ping Fu</td>
+<td  >60</td>
+<td  >12</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >-</td>
+<td  >E</td>
+<td  >Mo 02:30PM - 04:15PM</td>
+<td  >MMW_703</td>
+<td  >9/1, 16/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 02:30PM - 04:15PM</td>
+<td  >MMW_703</td>
+<td  >30/1, 6/2, 13/2, 20/2, 27/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 02:30PM - 04:15PM</td>
+<td  >MMW_703</td>
+<td  >13/3, 20/3, 27/3, 3/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 02:30PM - 04:15PM</td>
+<td  >MMW_703</td>
+<td  >17/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 02:30PM - 03:15PM</td>
+<td  >MMW_710</td>
+<td  >10/1, 17/1</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 02:30PM - 03:15PM</td>
+<td  >MMW_710</td>
+<td  >31/1, 7/2, 14/2, 21/2, 28/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 02:30PM - 03:15PM</td>
+<td  >MMW_710</td>
+<td  >14/3, 21/3, 28/3, 4/4, 11/4, 18/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >60</td>
+<td  >12</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T01</td>
+<td  >E</td>
+<td  >Tu 03:30PM - 04:15PM</td>
+<td  >MMW_710</td>
+<td  >10/1, 17/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 03:30PM - 04:15PM</td>
+<td  >MMW_710</td>
+<td  >31/1, 7/2, 14/2, 21/2, 28/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 03:30PM - 04:15PM</td>
+<td  >MMW_710</td>
+<td  >14/3, 21/3, 28/3, 4/4, 11/4, 18/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI2040-</td>
+<td  >9038</td>
+<td  >Introduction to Python Python程序語言導論</td>
+<td  >2.00</td>
+<td  style="mso-number-format:\@;"  >- Dr. LAM King Tin</td>
+<td  >120</td>
+<td  >4</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >-</td>
+<td  >E</td>
+<td  >We 04:30PM - 06:15PM</td>
+<td  >ERB_LT</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 04:30PM - 06:15PM</td>
+<td  >ERB_LT</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 04:30PM - 06:15PM</td>
+<td  >ERB_LT</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 04:30PM - 06:15PM</td>
+<td  >ERB_LT</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >60</td>
+<td  >3</td>
+<td  >LAB</td>
+<td  style="mso-number-format:\@;"  >-L01</td>
+<td  >E</td>
+<td  >Th 12:30PM - 02:15PM</td>
+<td  >SHB_924</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 12:30PM - 02:15PM</td>
+<td  >SHB_924</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 12:30PM - 02:15PM</td>
+<td  >SHB_924</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >60</td>
+<td  >1</td>
+<td  >LAB</td>
+<td  style="mso-number-format:\@;"  >-L02</td>
+<td  >E</td>
+<td  >Th 04:30PM - 06:15PM</td>
+<td  >SHB_924</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 04:30PM - 06:15PM</td>
+<td  >SHB_924</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 04:30PM - 06:15PM</td>
+<td  >SHB_924</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI2100A</td>
+<td  >4631</td>
+<td  >Data Structures 數據結構</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor KING Kuo Chin Irwin</td>
+<td  >80</td>
+<td  >0</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >A</td>
+<td  >E</td>
+<td  >Mo 04:30PM - 05:15PM</td>
+<td  >LSB_LT6</td>
+<td  >9/1, 16/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 04:30PM - 05:15PM</td>
+<td  >LSB_LT6</td>
+<td  >30/1, 6/2, 13/2, 20/2, 27/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 04:30PM - 05:15PM</td>
+<td  >LSB_LT6</td>
+<td  >13/3, 20/3, 27/3, 3/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 04:30PM - 05:15PM</td>
+<td  >LSB_LT6</td>
+<td  >17/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 04:15PM</td>
+<td  >TYW_LT</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 04:15PM</td>
+<td  >TYW_LT</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 04:15PM</td>
+<td  >TYW_LT</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 04:15PM</td>
+<td  >TYW_LT</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >80</td>
+<td  >24</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >AT01</td>
+<td  >E</td>
+<td  >We 05:30PM - 06:15PM</td>
+<td  >LSB_LT6</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 05:30PM - 06:15PM</td>
+<td  >LSB_LT6</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 05:30PM - 06:15PM</td>
+<td  >LSB_LT6</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 05:30PM - 06:15PM</td>
+<td  >LSB_LT6</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >80</td>
+<td  >56</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >AT02</td>
+<td  >E</td>
+<td  >Th 05:30PM - 06:15PM</td>
+<td  >LSB_LT6</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 05:30PM - 06:15PM</td>
+<td  >LSB_LT6</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 05:30PM - 06:15PM</td>
+<td  >LSB_LT6</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI2100B</td>
+<td  >7794</td>
+<td  >Data Structures 數據結構</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor TAO Yufei</td>
+<td  >100</td>
+<td  >0</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >B</td>
+<td  >E</td>
+<td  >We 02:30PM - 04:15PM</td>
+<td  >SC_L1</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 04:15PM</td>
+<td  >SC_L1</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 04:15PM</td>
+<td  >SC_L1</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 04:15PM</td>
+<td  >SC_L1</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 10:30AM - 11:15AM</td>
+<td  >TYW_LT</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 10:30AM - 11:15AM</td>
+<td  >TYW_LT</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 10:30AM - 11:15AM</td>
+<td  >TYW_LT</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >80</td>
+<td  >15</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >BT01</td>
+<td  >E</td>
+<td  >We 05:30PM - 06:15PM</td>
+<td  >LSB_LT5</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 05:30PM - 06:15PM</td>
+<td  >LSB_LT5</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 05:30PM - 06:15PM</td>
+<td  >LSB_LT5</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 05:30PM - 06:15PM</td>
+<td  >LSB_LT5</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >80</td>
+<td  >44</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >BT02</td>
+<td  >E</td>
+<td  >Th 05:30PM - 06:15PM</td>
+<td  >LSB_LT2</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 05:30PM - 06:15PM</td>
+<td  >LSB_LT2</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 05:30PM - 06:15PM</td>
+<td  >LSB_LT2</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI2100C</td>
+<td  >4469</td>
+<td  >Data Structures 數據結構</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor LEUNG Ho Fung</td>
+<td  >100</td>
+<td  >40</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >C</td>
+<td  >E</td>
+<td  >Tu 02:30PM - 03:15PM</td>
+<td  >MMW_LT1</td>
+<td  >10/1, 17/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 02:30PM - 03:15PM</td>
+<td  >MMW_LT1</td>
+<td  >31/1, 7/2, 14/2, 21/2, 28/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 02:30PM - 03:15PM</td>
+<td  >MMW_LT1</td>
+<td  >14/3, 21/3, 28/3, 4/4, 11/4, 18/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 10:30AM - 12:15PM</td>
+<td  >ERB_LT</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 10:30AM - 12:15PM</td>
+<td  >ERB_LT</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 10:30AM - 12:15PM</td>
+<td  >ERB_LT</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >60</td>
+<td  >29</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >CT01</td>
+<td  >E</td>
+<td  >We 05:30PM - 06:15PM</td>
+<td  >SC_LG23</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 05:30PM - 06:15PM</td>
+<td  >SC_LG23</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 05:30PM - 06:15PM</td>
+<td  >SC_LG23</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 05:30PM - 06:15PM</td>
+<td  >SC_LG23</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >60</td>
+<td  >31</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >CT02</td>
+<td  >E</td>
+<td  >Th 05:30PM - 06:15PM</td>
+<td  >ERB_803</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 05:30PM - 06:15PM</td>
+<td  >ERB_803</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 05:30PM - 06:15PM</td>
+<td  >ERB_803</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI2100D</td>
+<td  >7748</td>
+<td  >Data Structures 數據結構</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor WANG Sibo</td>
+<td  >100</td>
+<td  >20</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >D</td>
+<td  >E</td>
+<td  >Mo 09:30AM - 11:15AM</td>
+<td  >LSK_LT2</td>
+<td  >9/1, 16/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 09:30AM - 11:15AM</td>
+<td  >LSK_LT2</td>
+<td  >30/1, 6/2, 13/2, 20/2, 27/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 09:30AM - 11:15AM</td>
+<td  >LSK_LT2</td>
+<td  >13/3, 20/3, 27/3, 3/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 09:30AM - 11:15AM</td>
+<td  >LSK_LT2</td>
+<td  >17/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 10:30AM - 11:15AM</td>
+<td  >MMW_LT1</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 10:30AM - 11:15AM</td>
+<td  >MMW_LT1</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 10:30AM - 11:15AM</td>
+<td  >MMW_LT1</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 10:30AM - 11:15AM</td>
+<td  >MMW_LT1</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >100</td>
+<td  >20</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >DT01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >TBA</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI2100E</td>
+<td  >5264</td>
+<td  >Data Structures 數據結構</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor CHENG Hong</td>
+<td  >100</td>
+<td  >63</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >E</td>
+<td  >E</td>
+<td  >Mo 09:30AM - 11:15AM</td>
+<td  >SWH_1</td>
+<td  >9/1, 16/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 09:30AM - 11:15AM</td>
+<td  >SWH_1</td>
+<td  >30/1, 6/2, 13/2, 20/2, 27/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 09:30AM - 11:15AM</td>
+<td  >SWH_1</td>
+<td  >13/3, 20/3, 27/3, 3/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 09:30AM - 11:15AM</td>
+<td  >SWH_1</td>
+<td  >17/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 10:30AM - 11:15AM</td>
+<td  >LSB_LT1</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 10:30AM - 11:15AM</td>
+<td  >LSB_LT1</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 10:30AM - 11:15AM</td>
+<td  >LSB_LT1</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 10:30AM - 11:15AM</td>
+<td  >LSB_LT1</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >100</td>
+<td  >63</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >ET01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >TBA</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI2100F</td>
+<td  >4351</td>
+<td  >Data Structures 數據結構</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor YUE Xiangyu</td>
+<td  >120</td>
+<td  >41</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >F</td>
+<td  >E</td>
+<td  >Mo 12:30PM - 02:15PM</td>
+<td  >LSB_LT6</td>
+<td  >9/1, 16/1</td>
+<td  ></td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 12:30PM - 02:15PM</td>
+<td  >LSB_LT6</td>
+<td  >30/1, 6/2, 13/2, 20/2, 27/2</td>
+<td  ></td>
+<td  >Yes</td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 12:30PM - 02:15PM</td>
+<td  >LSB_LT6</td>
+<td  >13/3, 20/3, 27/3, 3/4</td>
+<td  ></td>
+<td  >Yes</td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 12:30PM - 02:15PM</td>
+<td  >LSB_LT6</td>
+<td  >17/4</td>
+<td  ></td>
+<td  >Yes</td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 11:30AM - 12:15PM</td>
+<td  >ERB_1004</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  >Yes</td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 11:30AM - 12:15PM</td>
+<td  >ERB_1004</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  >Yes</td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 11:30AM - 12:15PM</td>
+<td  >ERB_1004</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  >Yes</td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >120</td>
+<td  >41</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >FT01</td>
+<td  >E</td>
+<td  >Th 12:30PM - 02:15PM</td>
+<td  >ERB_1004</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 12:30PM - 02:15PM</td>
+<td  >ERB_1004</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  >Yes</td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 12:30PM - 02:15PM</td>
+<td  >ERB_1004</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  >Yes</td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI2520-</td>
+<td  >7847</td>
+<td  >Data Structures & Applications 數據結構及應用</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor CHENG James</td>
+<td  >80</td>
+<td  >13</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >-</td>
+<td  >E</td>
+<td  >Mo 02:30PM - 04:15PM</td>
+<td  >LHC_103</td>
+<td  >9/1, 16/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 02:30PM - 04:15PM</td>
+<td  >LHC_103</td>
+<td  >30/1, 6/2, 13/2, 20/2, 27/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 02:30PM - 04:15PM</td>
+<td  >LHC_103</td>
+<td  >13/3, 20/3, 27/3, 3/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 02:30PM - 04:15PM</td>
+<td  >LHC_103</td>
+<td  >17/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 10:30AM - 11:15AM</td>
+<td  >LSB_LT2</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 10:30AM - 11:15AM</td>
+<td  >LSB_LT2</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 10:30AM - 11:15AM</td>
+<td  >LSB_LT2</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >80</td>
+<td  >13</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T01</td>
+<td  >E</td>
+<td  >Th 05:30PM - 06:15PM</td>
+<td  >ERB_407</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 05:30PM - 06:15PM</td>
+<td  >ERB_407</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 05:30PM - 06:15PM</td>
+<td  >ERB_407</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI3100-</td>
+<td  >4912</td>
+<td  >Software Engineering 軟件工程</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor LYU Rung Tsong Michael</td>
+<td  >297</td>
+<td  >20</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >-</td>
+<td  >E</td>
+<td  >Mo 11:30AM - 12:15PM</td>
+<td  >SWC_LT</td>
+<td  >9/1, 16/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 11:30AM - 12:15PM</td>
+<td  >SWC_LT</td>
+<td  >30/1, 6/2, 13/2, 20/2, 27/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 11:30AM - 12:15PM</td>
+<td  >SWC_LT</td>
+<td  >13/3, 20/3, 27/3, 3/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 11:30AM - 12:15PM</td>
+<td  >SWC_LT</td>
+<td  >17/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 12:30PM - 02:15PM</td>
+<td  >LSK_LT5</td>
+<td  >10/1, 17/1</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 12:30PM - 02:15PM</td>
+<td  >LSK_LT5</td>
+<td  >31/1, 7/2, 14/2, 21/2, 28/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 12:30PM - 02:15PM</td>
+<td  >LSK_LT5</td>
+<td  >14/3, 21/3, 28/3, 4/4, 11/4, 18/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >100</td>
+<td  >10</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T01</td>
+<td  >E</td>
+<td  >Mo 05:30PM - 06:15PM</td>
+<td  >LSK_LT1</td>
+<td  >9/1, 16/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 05:30PM - 06:15PM</td>
+<td  >LSK_LT1</td>
+<td  >30/1, 6/2, 13/2, 20/2, 27/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 05:30PM - 06:15PM</td>
+<td  >LSK_LT1</td>
+<td  >13/3, 20/3, 27/3, 3/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 05:30PM - 06:15PM</td>
+<td  >LSK_LT1</td>
+<td  >17/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >100</td>
+<td  >12</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T02</td>
+<td  >E</td>
+<td  >Mo 05:30PM - 06:15PM</td>
+<td  >LSK_LT3</td>
+<td  >9/1, 16/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 05:30PM - 06:15PM</td>
+<td  >LSK_LT3</td>
+<td  >30/1, 6/2, 13/2, 20/2, 27/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 05:30PM - 06:15PM</td>
+<td  >LSK_LT3</td>
+<td  >13/3, 20/3, 27/3, 3/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 05:30PM - 06:15PM</td>
+<td  >LSK_LT3</td>
+<td  >17/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >70</td>
+<td  >35</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T03</td>
+<td  >E</td>
+<td  >We 05:30PM - 06:15PM</td>
+<td  >SC_L5</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 05:30PM - 06:15PM</td>
+<td  >SC_L5</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 05:30PM - 06:15PM</td>
+<td  >SC_L5</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 05:30PM - 06:15PM</td>
+<td  >SC_L5</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >70</td>
+<td  >6</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T04</td>
+<td  >E</td>
+<td  >We 05:30PM - 06:15PM</td>
+<td  >SC_L3</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 05:30PM - 06:15PM</td>
+<td  >SC_L3</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 05:30PM - 06:15PM</td>
+<td  >SC_L3</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 05:30PM - 06:15PM</td>
+<td  >SC_L3</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI3150-</td>
+<td  >8467</td>
+<td  >Intro to Operating Systems 操作系統導論</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor XU Hong</td>
+<td  >100</td>
+<td  >7</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >-</td>
+<td  >E</td>
+<td  >We 02:30PM - 04:15PM</td>
+<td  >MMW_LT1</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 04:15PM</td>
+<td  >MMW_LT1</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 04:15PM</td>
+<td  >MMW_LT1</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 04:15PM</td>
+<td  >MMW_LT1</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 11:30AM - 12:15PM</td>
+<td  >MMW_LT1</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 11:30AM - 12:15PM</td>
+<td  >MMW_LT1</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 11:30AM - 12:15PM</td>
+<td  >MMW_LT1</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >50</td>
+<td  >0</td>
+<td  >LAB</td>
+<td  style="mso-number-format:\@;"  >-L01</td>
+<td  >E</td>
+<td  >Th 02:30PM - 03:15PM</td>
+<td  >SHB_904</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 02:30PM - 03:15PM</td>
+<td  >SHB_904</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 02:30PM - 03:15PM</td>
+<td  >SHB_904</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >50</td>
+<td  >12</td>
+<td  >LAB</td>
+<td  style="mso-number-format:\@;"  >-L02</td>
+<td  >E</td>
+<td  >Th 05:30PM - 06:15PM</td>
+<td  >SHB_123</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 05:30PM - 06:15PM</td>
+<td  >SHB_123</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 05:30PM - 06:15PM</td>
+<td  >SHB_123</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI3170-</td>
+<td  >5391</td>
+<td  >Intro to Database Systems 數據庫系統導論</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor WONG Man Hon</td>
+<td  >120</td>
+<td  >45</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >-</td>
+<td  >E</td>
+<td  >We 10:30AM - 11:15AM</td>
+<td  >MMW_LT2</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 10:30AM - 11:15AM</td>
+<td  >MMW_LT2</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 10:30AM - 11:15AM</td>
+<td  >MMW_LT2</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 10:30AM - 11:15AM</td>
+<td  >MMW_LT2</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 10:30AM - 12:15PM</td>
+<td  >BMS_G18</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 10:30AM - 12:15PM</td>
+<td  >BMS_G18</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 10:30AM - 12:15PM</td>
+<td  >BMS_G18</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >80</td>
+<td  >38</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T01</td>
+<td  >E</td>
+<td  >We 02:30PM - 03:15PM</td>
+<td  >LHC_103</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 03:15PM</td>
+<td  >LHC_103</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 03:15PM</td>
+<td  >LHC_103</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 03:15PM</td>
+<td  >LHC_103</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >40</td>
+<td  >7</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T02</td>
+<td  >E</td>
+<td  >Th 02:30PM - 03:15PM</td>
+<td  >LHC_101</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 02:30PM - 03:15PM</td>
+<td  >LHC_101</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 02:30PM - 03:15PM</td>
+<td  >LHC_101</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI3180-</td>
+<td  >5394</td>
+<td  >Principles of Programming Lang 程序設計語言原理</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Mr. MAK Wai Ho Wallace</td>
+<td  >200</td>
+<td  >49</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >-</td>
+<td  >E</td>
+<td  >Mo 02:30PM - 04:15PM</td>
+<td  >ERB_LT</td>
+<td  >9/1, 16/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 02:30PM - 04:15PM</td>
+<td  >ERB_LT</td>
+<td  >30/1, 6/2, 13/2, 20/2, 27/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 02:30PM - 04:15PM</td>
+<td  >ERB_LT</td>
+<td  >13/3, 20/3, 27/3, 3/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 02:30PM - 04:15PM</td>
+<td  >ERB_LT</td>
+<td  >17/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 03:30PM - 04:15PM</td>
+<td  >ERB_LT</td>
+<td  >10/1, 17/1</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 03:30PM - 04:15PM</td>
+<td  >ERB_LT</td>
+<td  >31/1, 7/2, 14/2, 21/2, 28/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 03:30PM - 04:15PM</td>
+<td  >ERB_LT</td>
+<td  >14/3, 21/3, 28/3, 4/4, 11/4, 18/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >80</td>
+<td  >21</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T01</td>
+<td  >E</td>
+<td  >Tu 05:30PM - 06:15PM</td>
+<td  >LHC_103</td>
+<td  >10/1, 17/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 05:30PM - 06:15PM</td>
+<td  >LHC_103</td>
+<td  >31/1, 7/2, 14/2, 21/2, 28/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 05:30PM - 06:15PM</td>
+<td  >LHC_103</td>
+<td  >14/3, 21/3, 28/3, 4/4, 11/4, 18/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >100</td>
+<td  >55</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T02</td>
+<td  >E</td>
+<td  >We 04:30PM - 05:15PM</td>
+<td  >MMW_LT1</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 04:30PM - 05:15PM</td>
+<td  >MMW_LT1</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 04:30PM - 05:15PM</td>
+<td  >MMW_LT1</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 04:30PM - 05:15PM</td>
+<td  >MMW_LT1</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >80</td>
+<td  >33</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T03</td>
+<td  >E</td>
+<td  >Th 12:30PM - 01:15PM</td>
+<td  >SC_L2</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 12:30PM - 01:15PM</td>
+<td  >SC_L2</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 12:30PM - 01:15PM</td>
+<td  >SC_L2</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI3250-</td>
+<td  >7234</td>
+<td  >Computers and Society 計算機與社會</td>
+<td  >2.00</td>
+<td  style="mso-number-format:\@;"  >- Dr. CHAU Chuck Jee</td>
+<td  >200</td>
+<td  >54</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >-</td>
+<td  >E</td>
+<td  >Th 01:30PM - 03:15PM</td>
+<td  >ERB_LT</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 01:30PM - 03:15PM</td>
+<td  >ERB_LT</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 01:30PM - 03:15PM</td>
+<td  >ERB_LT</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI3251-</td>
+<td  >7236</td>
+<td  >Engineering Practicum 工程實務</td>
+<td  >1.00</td>
+<td  style="mso-number-format:\@;"  >- Dr. CHAU Chuck Jee</td>
+<td  >200</td>
+<td  >29</td>
+<td  >PRA</td>
+<td  style="mso-number-format:\@;"  >-P01</td>
+<td  >E</td>
+<td  >Th 03:30PM - 04:15PM</td>
+<td  >ERB_LT</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 03:30PM - 04:15PM</td>
+<td  >ERB_LT</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 03:30PM - 04:15PM</td>
+<td  >ERB_LT</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI3280-</td>
+<td  >4613</td>
+<td  >Intro to Multimedia Systems 多媒體系統導論</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor WONG Tien Tsin</td>
+<td  >100</td>
+<td  >16</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >-</td>
+<td  >E</td>
+<td  >Th 09:30AM - 10:15AM</td>
+<td  >LSB_LT6</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 09:30AM - 10:15AM</td>
+<td  >LSB_LT6</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 09:30AM - 10:15AM</td>
+<td  >LSB_LT6</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Fr 09:30AM - 11:15AM</td>
+<td  >BMS_G18</td>
+<td  >13/1, 20/1</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Fr 09:30AM - 11:15AM</td>
+<td  >BMS_G18</td>
+<td  >3/2, 10/2, 17/2, 24/2, 3/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Fr 09:30AM - 11:15AM</td>
+<td  >BMS_G18</td>
+<td  >17/3, 24/3, 31/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Fr 09:30AM - 11:15AM</td>
+<td  >BMS_G18</td>
+<td  >14/4, 21/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >70</td>
+<td  >17</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T01</td>
+<td  >E</td>
+<td  >Th 10:30AM - 11:15AM</td>
+<td  >LSB_LT6</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 10:30AM - 11:15AM</td>
+<td  >LSB_LT6</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 10:30AM - 11:15AM</td>
+<td  >LSB_LT6</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >70</td>
+<td  >39</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T02</td>
+<td  >E</td>
+<td  >Th 12:30PM - 01:15PM</td>
+<td  >LSB_LT4</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 12:30PM - 01:15PM</td>
+<td  >LSB_LT4</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 12:30PM - 01:15PM</td>
+<td  >LSB_LT4</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI3310-</td>
+<td  >7662</td>
+<td  >Mobile Computing & Apps Dev 流動計算和應用開發</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Dr. CHUI Yim Pan</td>
+<td  >60</td>
+<td  >0</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >-</td>
+<td  >E</td>
+<td  >Tu 02:30PM - 03:15PM</td>
+<td  >LSB_LT3</td>
+<td  >10/1, 17/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 02:30PM - 03:15PM</td>
+<td  >LSB_LT3</td>
+<td  >31/1, 7/2, 14/2, 21/2, 28/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 02:30PM - 03:15PM</td>
+<td  >LSB_LT3</td>
+<td  >14/3, 21/3, 28/3, 4/4, 11/4, 18/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 12:30PM - 02:15PM</td>
+<td  >MMW_710</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 12:30PM - 02:15PM</td>
+<td  >MMW_710</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 12:30PM - 02:15PM</td>
+<td  >MMW_710</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 12:30PM - 02:15PM</td>
+<td  >MMW_710</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >60</td>
+<td  >0</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T01</td>
+<td  >E</td>
+<td  >Tu 05:30PM - 06:15PM</td>
+<td  >ERB_803</td>
+<td  >10/1, 17/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 05:30PM - 06:15PM</td>
+<td  >ERB_803</td>
+<td  >31/1, 7/2, 14/2, 21/2, 28/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 05:30PM - 06:15PM</td>
+<td  >ERB_803</td>
+<td  >14/3, 21/3, 28/3, 4/4, 11/4, 18/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI3320-</td>
+<td  >6441</td>
+<td  >Fund. of Machine Learning 機器學習之基礎課程</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor WANG Liwei</td>
+<td  >160</td>
+<td  >0</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >-</td>
+<td  >E</td>
+<td  >Tu 08:30AM - 10:15AM</td>
+<td  >ERB_LT</td>
+<td  >10/1, 17/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 08:30AM - 10:15AM</td>
+<td  >ERB_LT</td>
+<td  >31/1, 7/2, 14/2, 21/2, 28/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 08:30AM - 10:15AM</td>
+<td  >ERB_LT</td>
+<td  >14/3, 21/3, 28/3, 4/4, 11/4, 18/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 08:30AM - 09:15AM</td>
+<td  >SC_L1</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 08:30AM - 09:15AM</td>
+<td  >SC_L1</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 08:30AM - 09:15AM</td>
+<td  >SC_L1</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 08:30AM - 09:15AM</td>
+<td  >SC_L1</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >160</td>
+<td  >0</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T01</td>
+<td  >E</td>
+<td  >We 09:30AM - 10:15AM</td>
+<td  >SC_L1</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 09:30AM - 10:15AM</td>
+<td  >SC_L1</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 09:30AM - 10:15AM</td>
+<td  >SC_L1</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 09:30AM - 10:15AM</td>
+<td  >SC_L1</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI4130-</td>
+<td  >4724</td>
+<td  >Intro to Cyber Security 網際安全概論</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor MENG Wei</td>
+<td  >150</td>
+<td  >84</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >-</td>
+<td  >E</td>
+<td  >Mo 09:30AM - 11:15AM</td>
+<td  >ERB_LT</td>
+<td  >9/1, 16/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 09:30AM - 11:15AM</td>
+<td  >ERB_LT</td>
+<td  >30/1, 6/2, 13/2, 20/2, 27/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 09:30AM - 11:15AM</td>
+<td  >ERB_LT</td>
+<td  >13/3, 20/3, 27/3, 3/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 09:30AM - 11:15AM</td>
+<td  >ERB_LT</td>
+<td  >17/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 02:30PM - 03:15PM</td>
+<td  >ERB_LT</td>
+<td  >10/1, 17/1</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 02:30PM - 03:15PM</td>
+<td  >ERB_LT</td>
+<td  >31/1, 7/2, 14/2, 21/2, 28/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 02:30PM - 03:15PM</td>
+<td  >ERB_LT</td>
+<td  >14/3, 21/3, 28/3, 4/4, 11/4, 18/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >150</td>
+<td  >84</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T01</td>
+<td  >E</td>
+<td  >Tu 05:30PM - 06:15PM</td>
+<td  >SC_L1</td>
+<td  >10/1, 17/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 05:30PM - 06:15PM</td>
+<td  >SC_L1</td>
+<td  >31/1, 7/2, 14/2, 21/2, 28/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 05:30PM - 06:15PM</td>
+<td  >SC_L1</td>
+<td  >14/3, 21/3, 28/3, 4/4, 11/4, 18/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI4160-</td>
+<td  >5380</td>
+<td  >Dist & Parallel Computing 分佈式及並行式計算</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor LO Chi Lik Eric</td>
+<td  >30</td>
+<td  >0</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >-</td>
+<td  >E</td>
+<td  >We 04:30PM - 05:15PM</td>
+<td  >BMS_2</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 04:30PM - 05:15PM</td>
+<td  >BMS_2</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 04:30PM - 05:15PM</td>
+<td  >BMS_2</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 04:30PM - 05:15PM</td>
+<td  >BMS_2</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 10:30AM - 12:15PM</td>
+<td  >MMW_704</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 10:30AM - 12:15PM</td>
+<td  >MMW_704</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 10:30AM - 12:15PM</td>
+<td  >MMW_704</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >30</td>
+<td  >0</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T01</td>
+<td  >E</td>
+<td  >We 02:30PM - 03:15PM</td>
+<td  >SHB_924</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 03:15PM</td>
+<td  >SHB_924</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 03:15PM</td>
+<td  >SHB_924</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 03:15PM</td>
+<td  >SHB_924</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI4190-</td>
+<td  >7312</td>
+<td  >Intro to Social Networks 社交網絡導論</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor CHAN Lai Wan</td>
+<td  >80</td>
+<td  >39</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >-</td>
+<td  >E</td>
+<td  >Tu 12:30PM - 02:15PM</td>
+<td  >ERB_407</td>
+<td  >10/1, 17/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 12:30PM - 02:15PM</td>
+<td  >ERB_407</td>
+<td  >31/1, 7/2, 14/2, 21/2, 28/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 12:30PM - 02:15PM</td>
+<td  >ERB_407</td>
+<td  >14/3, 21/3, 28/3, 4/4, 11/4, 18/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 12:30PM - 01:15PM</td>
+<td  >ICS_L1</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 12:30PM - 01:15PM</td>
+<td  >ICS_L1</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 12:30PM - 01:15PM</td>
+<td  >ICS_L1</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >80</td>
+<td  >39</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T01</td>
+<td  >E</td>
+<td  >Th 01:30PM - 02:15PM</td>
+<td  >ICS_L1</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 01:30PM - 02:15PM</td>
+<td  >ICS_L1</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 01:30PM - 02:15PM</td>
+<td  >ICS_L1</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI4230-</td>
+<td  >5094</td>
+<td  >Computational Learning Theory 計算學習論</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor CHAN Siu On</td>
+<td  >40</td>
+<td  >12</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >-</td>
+<td  >E</td>
+<td  >Tu 10:30AM - 12:15PM</td>
+<td  >MMW_703</td>
+<td  >10/1, 17/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 10:30AM - 12:15PM</td>
+<td  >MMW_703</td>
+<td  >31/1, 7/2, 14/2, 21/2, 28/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 10:30AM - 12:15PM</td>
+<td  >MMW_703</td>
+<td  >14/3, 21/3, 28/3, 4/4, 11/4, 18/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 03:15PM</td>
+<td  >MMW_705</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 03:15PM</td>
+<td  >MMW_705</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 03:15PM</td>
+<td  >MMW_705</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 02:30PM - 03:15PM</td>
+<td  >MMW_705</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >40</td>
+<td  >12</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T01</td>
+<td  >E</td>
+<td  >We 03:30PM - 04:15PM</td>
+<td  >MMW_705</td>
+<td  >11/1, 18/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 03:30PM - 04:15PM</td>
+<td  >MMW_705</td>
+<td  >1/2, 8/2, 15/2, 22/2, 1/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 03:30PM - 04:15PM</td>
+<td  >MMW_705</td>
+<td  >15/3, 22/3, 29/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >We 03:30PM - 04:15PM</td>
+<td  >MMW_705</td>
+<td  >12/4, 19/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI4430-</td>
+<td  >7361</td>
+<td  >Data Comm & Computer Networks 數據通信及計算機網絡</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor XU Hong</td>
+<td  >120</td>
+<td  >57</td>
+<td  >LEC</td>
+<td  style="mso-number-format:\@;"  >-</td>
+<td  >E</td>
+<td  >Mo 12:30PM - 02:15PM</td>
+<td  >BMS_G18</td>
+<td  >9/1, 16/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 12:30PM - 02:15PM</td>
+<td  >BMS_G18</td>
+<td  >30/1, 6/2, 13/2, 20/2, 27/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 12:30PM - 02:15PM</td>
+<td  >BMS_G18</td>
+<td  >13/3, 20/3, 27/3, 3/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Mo 12:30PM - 02:15PM</td>
+<td  >BMS_G18</td>
+<td  >17/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 04:30PM - 05:15PM</td>
+<td  >MMW_LT1</td>
+<td  >10/1, 17/1</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 04:30PM - 05:15PM</td>
+<td  >MMW_LT1</td>
+<td  >31/1, 7/2, 14/2, 21/2, 28/2</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Tu 04:30PM - 05:15PM</td>
+<td  >MMW_LT1</td>
+<td  >14/3, 21/3, 28/3, 4/4, 11/4, 18/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >80</td>
+<td  >61</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T01</td>
+<td  >E</td>
+<td  >Th 08:30AM - 09:15AM</td>
+<td  >MMW_LT2</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 08:30AM - 09:15AM</td>
+<td  >MMW_LT2</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 08:30AM - 09:15AM</td>
+<td  >MMW_LT2</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >80</td>
+<td  >36</td>
+<td  >TUT</td>
+<td  style="mso-number-format:\@;"  >-T02</td>
+<td  >E</td>
+<td  >Th 12:30PM - 01:15PM</td>
+<td  >BMS_G18</td>
+<td  >12/1, 19/1</td>
+<td  ></td>
+<td  ></td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 12:30PM - 01:15PM</td>
+<td  >BMS_G18</td>
+<td  >2/2, 9/2, 16/2, 23/2, 2/3</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td>&nbsp;
+</td>
+<td  >Th 12:30PM - 01:15PM</td>
+<td  >BMS_G18</td>
+<td  >16/3, 23/3, 30/3, 6/4, 13/4, 20/4</td>
+<td  ></td>
+<td  ></td>
+<td>&nbsp;
+</td>
+<tr>
+<td  >CSCI4998-</td>
+<td  >5799</td>
+<td  >Final Year Project I 畢業專題研究（一）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor TAO Yufei</td>
+<td  >10</td>
+<td  >8</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >-J01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999A</td>
+<td  >6721</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor CHAN Lai Wan</td>
+<td  >10</td>
+<td  >6</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >AJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999AA</td>
+<td  >6131</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor YOUNG Fung Yu</td>
+<td  >10</td>
+<td  >9</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >AAJ1</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999AB</td>
+<td  >6106</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor YU Bei</td>
+<td  >10</td>
+<td  >8</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >ABJ1</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999AC</td>
+<td  >6736</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Dr. CHAU Chuck Jee</td>
+<td  >10</td>
+<td  >9</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >ACJ1</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999AD</td>
+<td  >6431</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Dr. CHEONG Chi Hong</td>
+<td  >10</td>
+<td  >6</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >ADJ1</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999AE</td>
+<td  >6121</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Dr. CHUI Yim Pan</td>
+<td  >10</td>
+<td  >7</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >AEJ1</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999AF</td>
+<td  >6610</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Mr. FUNG Ping Fu</td>
+<td  >10</td>
+<td  >10</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >AFJ1</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999AG</td>
+<td  >6432</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Dr. LAM King Tin</td>
+<td  >10</td>
+<td  >8</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >AGJ1</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999AH</td>
+<td  >6433</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Dr. LAW Yat Chiu</td>
+<td  >10</td>
+<td  >8</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >AHJ1</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999AI</td>
+<td  >5842</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Staff</td>
+<td  >10</td>
+<td  >10</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >AIJ1</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999AJ</td>
+<td  >6120</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Dr. SUM Kwok Wing</td>
+<td  >10</td>
+<td  >9</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >AJJ1</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999AK</td>
+<td  >5837</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Staff</td>
+<td  >10</td>
+<td  >10</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >AKJ1</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999AL</td>
+<td  >5838</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Staff</td>
+<td  >10</td>
+<td  >10</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >ALJ1</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999B</td>
+<td  >6102</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor CHAN Siu On</td>
+<td  >10</td>
+<td  >7</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >BJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999C</td>
+<td  >6561</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor CHENG James</td>
+<td  >10</td>
+<td  >6</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >CJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999D</td>
+<td  >6653</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor DOU Qi</td>
+<td  >10</td>
+<td  >5</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >DJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999E</td>
+<td  >5873</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor Farzan FARNIA</td>
+<td  >10</td>
+<td  >7</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >EJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999F</td>
+<td  >6714</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor FU Chi Wing</td>
+<td  >10</td>
+<td  >4</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >FJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999G</td>
+<td  >5956</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor HENG Pheng Ann</td>
+<td  >10</td>
+<td  >6</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >GJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999H</td>
+<td  >6061</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor HO Tsung Yi</td>
+<td  >10</td>
+<td  >5</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >HJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999I</td>
+<td  >5977</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor JIA Jiaya</td>
+<td  >10</td>
+<td  >9</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >IJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999J</td>
+<td  >6703</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor LEE Ho Man</td>
+<td  >10</td>
+<td  >9</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >JJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999K</td>
+<td  >5957</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor KING Kuo Chin Irwin</td>
+<td  >10</td>
+<td  >8</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >KJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999L</td>
+<td  >5978</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor LEE Pak Ching</td>
+<td  >10</td>
+<td  >6</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >LJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999M</td>
+<td  >6630</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor LEUNG Ho Fung</td>
+<td  >10</td>
+<td  >5</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >MJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999N</td>
+<td  >6105</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor LI Yu</td>
+<td  >10</td>
+<td  >9</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >NJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999O</td>
+<td  >5979</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor LO Chi Lik Eric</td>
+<td  >10</td>
+<td  >6</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >OJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999P</td>
+<td  >6732</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor LYU Rung Tsong Michael</td>
+<td  >10</td>
+<td  >6</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >PJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999Q</td>
+<td  >5966</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor MENG Wei</td>
+<td  >10</td>
+<td  >8</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >QJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999R</td>
+<td  >6729</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor SHAO Zili</td>
+<td  >10</td>
+<td  >7</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >RJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999S</td>
+<td  >6733</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor TAO Yufei</td>
+<td  >10</td>
+<td  >4</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >SJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999T</td>
+<td  >5980</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor WAH Wan Sang Benjamin</td>
+<td  >10</td>
+<td  >10</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >TJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999U</td>
+<td  >5967</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor WANG Liwei</td>
+<td  >10</td>
+<td  >9</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >UJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999V</td>
+<td  >6734</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor WONG Man Hon</td>
+<td  >10</td>
+<td  >10</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >VJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999W</td>
+<td  >5981</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor WONG Tien Tsin</td>
+<td  >10</td>
+<td  >7</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >WJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999X</td>
+<td  >6730</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor XU Hong</td>
+<td  >10</td>
+<td  >7</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >XJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999Y</td>
+<td  >6735</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor XU Qiang</td>
+<td  >10</td>
+<td  >5</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >YJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+<tr>
+<td  >CSCI4999Z</td>
+<td  >6731</td>
+<td  >Final Year Project II 畢業專題研究（二）</td>
+<td  >3.00</td>
+<td  style="mso-number-format:\@;"  >- Professor YANG Ming Chang</td>
+<td  >10</td>
+<td  >9</td>
+<td  >PRJ</td>
+<td  style="mso-number-format:\@;"  >ZJ01</td>
+<td  >E</td>
+<td  >TBA</td>
+<td  >NRR</td>
+<td  >09/01/2023 - 17/04/2023</td>
+<td  >Yes</td>
+<td  >Yes</td>
+<td  >Dept of Computer Sci &amp; Engg</td>
+</table></body></html>

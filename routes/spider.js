@@ -1,5 +1,9 @@
 const express = require('express');
 const puppeteer = require('puppeteer');
+const path = require('path');
+const fs = require('fs');
+
+
 const router = express.Router();
 require('dotenv').config();
 
@@ -7,28 +11,21 @@ router.use(express.urlencoded({extended: false}));
 router.use(express.static(__dirname + '/public'));
 
 
-const t = async () => {
-    const browser = await puppeteer.launch({headless: false});
-    const page = await browser.newPage();
-    await page.setViewport({width: 1366, height: 768});
-    await page.goto('http://localhost:1000');
-    
-    await page.waitForTimeout(3000);
-
-    await page.select('select[name="cars"]', '2');
-
-    await page.type('input[name="t"]', 'CSCI');
-    await page.hover('select[name="cars"]');
-    await page.mouse.down();
-
-    //await page.waitForSelector('input[name="CU_RC_TMSR801_SUBJECT"]');
-    //console.log('gkj');
-
-}
-
 const spi = async () => {
+
+    const subject = ['csci', 'math'];
+
     const browser = await puppeteer.launch({headless: false});
     const page = await browser.newPage();
+
+    const client = await page.target().createCDPSession();
+    const downloadPath = path.resolve('./result');
+    await client.send('Page.setDownloadBehavior', {
+        behavior: 'allow',
+        downloadPath: downloadPath
+    });
+
+
     await page.goto('https://cusis.cuhk.edu.hk/psc/CSPRD_9/EMPLOYEE/HRMS/c/CU_SCR_MENU.CU_TMSR801.GBL?Page=CU_TMSR801_ENTRY&Action=U');
     
     //login to cusis
@@ -40,21 +37,49 @@ const spi = async () => {
 
     await page.select('select[name="CLASS_SRCH_WRK2_STRM$35$"]', '2270');
 
-    await page.waitForTimeout(1000);
 
-    await page.type('#CU_RC_TMSR801_SUBJECT', 'CSCI');
+    for(var i=0;i<2;i++) {
 
-    await page.keyboard.press('Enter');
+        await page.waitForTimeout(1000);
 
-    await page.waitForSelector('a.PSHYPERLINK PTDOWNLOAD1');
+        const box = await page.$('#CU_RC_TMSR801_SUBJECT');
+        await box.click({clickCount: 3});
+        await box.type(subject[i]);
 
-    await page.$eval('a.PSHYPERLINK PTDOWNLOAD1', form => form.click());
+
+        await page.keyboard.press('Enter');
+
+                
+        //press the button to download excel
+        const downLoad = await page.waitForXPath('//a[@class="PSHYPERLINK PTDOWNLOAD1"]');
+        
+        await Promise.all([
+            downLoad.evaluate(el => el.click()),
+        ]);
+
+        await page.waitForTimeout(3000);
+        
+    //press the 'New Search' Button 
+        const newSearch = await page.waitForXPath('//a[@name="CU_RC_TMSR801_SSR_PB_NEW_SEARCH"]');
+
+        await Promise.all([
+            newSearch.evaluate(el => el.click()),
+        ]);
+            
+       fs.rename('result/ps.xls', 'result/' + subject[i] + '.xls', (err) => {
+            if(err) throw err;
+       }); 
+
+    }
     
+
+    await browser.close();    
 }
 
 router.get('/', (req, res) => {
     res.send('spidering');
     spi(); 
+    res.redirect('..');
 })
 
 module.exports = router;
