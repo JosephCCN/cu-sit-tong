@@ -73,7 +73,7 @@ const spi = async () => {
     }
     
 
-    await browser.close();    
+    await page.close();    
 }
 
 router.get('/', (req, res) => {
