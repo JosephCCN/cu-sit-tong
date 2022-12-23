@@ -11,9 +11,15 @@ router.use(express.urlencoded({extended: false}));
 router.use(express.static(__dirname + '/public'));
 
 
+const get_course_type = () => {
+    const t = JSON.parse(fs.readFileSync('./course_type.json', 'utf-8'));
+    return t['type'];
+}
+
 const spi = async () => {
 
-    const subject = ['csci', 'math'];
+
+    const subject = get_course_type();
 
     const browser = await puppeteer.launch({headless: false});
     const page = await browser.newPage();
@@ -77,9 +83,8 @@ const spi = async () => {
 }
 
 router.get('/', (req, res) => {
-    res.send('spidering');
     spi(); 
-    res.redirect('..');
+    res.redirect(200,'..');
 })
 
 module.exports = router;
