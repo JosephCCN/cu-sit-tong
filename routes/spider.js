@@ -25,7 +25,7 @@ const spi = async () => {
     const page = await browser.newPage();
 
     const client = await page.target().createCDPSession();
-    const downloadPath = path.resolve('./result');
+    const downloadPath = path.resolve('./raw');
     await client.send('Page.setDownloadBehavior', {
         behavior: 'allow',
         downloadPath: downloadPath
@@ -72,7 +72,7 @@ const spi = async () => {
             newSearch.evaluate(el => el.click()),
         ]);
             
-       fs.rename('result/ps.xls', 'result/' + subject[i] + '.xls', (err) => {
+       fs.rename('raw/ps.xls', 'raw/' + subject[i] + '.xls', (err) => {
             if(err) throw err;
        }); 
 
