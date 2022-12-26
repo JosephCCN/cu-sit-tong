@@ -38,7 +38,8 @@ function min_to_time(t) {
 app.get('/', async (req, res) => {
     let start_time = req.query.start_time;
     let end_time = req.query.end_time;
-    let query = 'SELECT * from course where start_time>=' + String(start_time) + ' AND end_time <= ' + String(end_time) + ';';
+    let week = req.query.week;
+    let query = 'SELECT * from course where start_time>=' + String(start_time)   + ' AND end_time <= ' + String(end_time) + ' AND week = \'' + String(week) + '\';';
     pg_client.query(query, (err, pg_res) => {
         //console.log(err ? err.stack: res.rows);
         if(err) console.log("Error", err);
@@ -49,7 +50,6 @@ app.get('/', async (req, res) => {
                 q_res[i].start_time = min_to_time(q_res[i].start_time);
                 q_res[i].end_time = min_to_time(q_res[i].end_time);
             }
-            console.log(q_res);
             res.render('search_res.ejs', {row: q_res, row_length: q_res_length});
         }
     });
@@ -59,7 +59,7 @@ app.post('/', (req, res) => {
     let st = time_to_min(String(req.body.start_time));
     let et = time_to_min(String(req.body.end_time));
     if(et < st) res.redirect('/');
-    let url = 'search/?start_time=' + String(st) + '&end_time=' + String(et);
+    let url = 'search/?start_time=' + String(st) + '&end_time=' + String(et) + '&week=' + req.body.week;
     res.redirect(url);
 });
 

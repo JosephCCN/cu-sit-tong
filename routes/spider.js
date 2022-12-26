@@ -44,7 +44,7 @@ const spi = async () => {
     await page.select('select[name="CLASS_SRCH_WRK2_STRM$35$"]', '2270');
 
 
-    for(var i=0;i<2;i++) {
+    for(var i=0;i<subject.length;i++) {
 
         await page.waitForTimeout(1000);
 

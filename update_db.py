@@ -67,7 +67,7 @@ def update_db(cur, name):
         if course_code[-1] == '-':
             course_code = course_code[:-1]
         print(course_code)
-        taught_by = sheet.range(f'F{row}').value[2:]
+        taught_by = sheet.range(f'F{row}').value
         for i in range(row, r):
             time = sheet.range(f'L{i}').value
             week = find_week_from_sheet(time)

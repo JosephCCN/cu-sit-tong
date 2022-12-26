@@ -20,13 +20,28 @@ table, th, td {
         <th>Start Time</th>
         <th>End Time</th>
         <th>Location</th>
+        <th>Week</th>
+        <th>Taught By</th>
     </tr>
-    <% for(var i=0;i<row_length;i++) {%>
+    <% for(var i=0;i<row_length;i++) {%>   
+    <% var name = '' %>
         <tr>
             <td><%= row[i].course_code %></td>
             <td><%= row[i].start_time %></td>
             <td><%= row[i].end_time %></td>
             <td><%= row[i].location %></td>
+            <td><%= row[i].week %></td>
+            <td><% for(var j=1;j<row[i].taught_by.length;j++) {%>
+                    <% if(row[i].taught_by[j] == '-') {%>
+                        <%= name %>
+                        <% name = '' %>
+                        <br>
+                    <% } else {%>
+                        <% name += row[i].taught_by[j] %>
+                    <% } %>
+                <% } %> 
+                <%= name %>
+            </td>
         </tr>
     <% } %>
 </table>
