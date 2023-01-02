@@ -50,7 +50,7 @@ app.get('/', async (req, res) => {
                 q_res[i].start_time = min_to_time(q_res[i].start_time);
                 q_res[i].end_time = min_to_time(q_res[i].end_time);
             }
-            res.render('search_res.ejs', {row: q_res, row_length: q_res_length});
+            res.send(q_res);
         }
     });
 });
